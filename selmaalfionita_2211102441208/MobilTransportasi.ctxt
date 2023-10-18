@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MobilTransportasi
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MobilTransportasi\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=jmlKursi
+comment1.target=MobilTransportasi(int)
+comment2.params=
+comment2.target=void\ TambahPenumpang()
+numComments=3
